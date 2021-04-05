@@ -1,6 +1,6 @@
 # Notes on Memory Organization
 
-## How to create a Markdowwn file in VS Code?
+## How to create a Markdown file in VS Code?
 
 https://medium.com/@michael.isprihanto/how-to-guide-markdown-in-visual-studio-code-e8a68cc01f64
 
