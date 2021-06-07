@@ -10,4 +10,8 @@ http://ee.sharif.edu/~sakhtar3/articles/8086/ASM%20Tutorial-Ready%20to%20Start!.
 
 ## Other Useful Web Resource
 
-http://www.petesqbsite.com/sections/tutorials/tuts/doorknob/asm_tutorial1.htmlv
+http://www.petesqbsite.com/sections/tutorials/tuts/doorknob/asm_tutorial1.html
+
+
+## DOS INT 21h - DOS Function Codes
+http://spike.scu.edu.au/~barry/interrupts.html
