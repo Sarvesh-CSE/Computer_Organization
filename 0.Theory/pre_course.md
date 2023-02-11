@@ -1,11 +1,11 @@
 ## Computer Organization and Architecture
 
-Organization --> ***How does a computer work?
+Organization --> ***How does a computer work?***
 * Physical aspects of  computer system
 * Control signals, interfaces, memory technologies, etc.* 
 * e.g., is there a hardware multiply unit or is to done by repeated additions?
 
-Architecture --> ***How do I design a computer?
+Architecture --> ***How do I design a computer?***
 * Logical aspects of computer system implementation as seen by the programmer
 * Instruction set, number of bits used for data representation, I/O mechanisms, addressing techniques, etc.
 * e.g., is there a multiply instruction?
