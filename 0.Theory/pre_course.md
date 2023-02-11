@@ -2,7 +2,7 @@
 
 Organization --> ***How does a computer work?***
 * Physical aspects of  computer system
-* Control signals, interfaces, memory technologies, etc.* 
+* Control signals, interfaces, memory technologies, etc.
 * e.g., is there a hardware multiply unit or is to done by repeated additions?
 
 Architecture --> ***How do I design a computer?***
@@ -13,7 +13,7 @@ Architecture --> ***How do I design a computer?***
 ## Why do we study this subject?
 * It explores how machines are designed, built and operated.
 * Knowing what's inside will help you design/develop/implement applications in an efficient manner.
-* You will be able to make informed and logical decisions instead of instead of relying on a mediocre guessing game. 
+* You will be able to make informed and logical decisions instead of relying on a mediocre guessing game. 
 
 
 
