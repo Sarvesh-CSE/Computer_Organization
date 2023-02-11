@@ -15,6 +15,9 @@ Architecture --> ***How do I design a computer?***
 * Knowing what's inside will help you design/develop/implement applications in an efficient manner.
 * You will be able to make informed and logical decisions instead of relying on a mediocre guessing game. 
 
+**Bibliograpghy**
+* http://web.eecs.utk.edu/~mbeck/classes/cs160/lectures/
+
 
 
 
