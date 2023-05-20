@@ -3,9 +3,10 @@
 .stack 64h
 .data
  
-     Ask DB 0AH, "Please Enter either M or F for your Gender:", 0DH, 0AH, '$'
+     Ask DB 0AH, "Please Enter either M or F or T for your Gender:", 0DH, 0AH, '$'
      Male DB 0AH, 0DH, "Oh! So you are a Boy! $ "
      Female DB 0AH, 0DH," Oh! So you are a Girl! $ "
+     Transgender DB 0AH, 0DH," Oh! So you are a Transgender! $ "
      Other DB 0AH, 0Dh," Oh! Your Gender input is not found in database $ "
    
  .code
@@ -29,6 +30,10 @@
     mov bl, 'F'
      cmp bl,al
     je Girl
+    
+    mov bl, 'T'
+     cmp bl,al
+    je Trans
    
    
  
@@ -45,6 +50,11 @@
     Girl:
      mov ah, 09
      mov dx, offset Female
+    jmp print
+    
+    Trans:
+     mov ah, 09
+     mov dx, offset Transgender
     jmp print
        
    
