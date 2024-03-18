@@ -12,7 +12,9 @@
 - Why is the subject's name so long??
 + computer?? organization?? architecture??
 - Why GitHub??
-+ repository (folder); shared and collaborative view of the codebase.
++ repository (folder); shared and collaborative view of the codebase (pull requests??).
+- Project Management?
++ software? module? program? instruction? debugging? story; tasks; bugs; features; enhancements
 ```
 
 Organization --> ***How does a computer work?***
