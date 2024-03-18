@@ -1,9 +1,24 @@
+
 ## Computer Organization and Architecture
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+```diff
+- Why is the subject's name so long??
++ computer?? organization?? architecture??
+- Why GitHub??
++ repository (folder); shared and collaborative view of the codebase.
+```
+
 Organization --> ***How does a computer work?***
-* Physical aspects of  computer system
+* Physical aspects of  the computer system
 * Control signals, interfaces, memory technologies, etc.
-* e.g., is there a hardware multiply unit or is to done by repeated additions?
+* e.g., is there a hardware multiply unit, or do repeated additions do it?
 
 Architecture --> ***How do I design a computer?***
 * Logical aspects of computer system implementation as seen by the programmer
@@ -11,9 +26,9 @@ Architecture --> ***How do I design a computer?***
 * e.g., is there a multiply instruction?
 
 ## Why do we study this subject?
-* It explores how machines are designed, built and operated.
-* Knowing what's inside will help you design/develop/implement applications in an efficient manner.
-* You will be able to make informed and logical decisions instead of relying on a mediocre guessing game. 
+* It explores how machines are designed, built, and operated.
+* Knowing what's inside will help you design/develop/implement applications efficiently.
+* You can make informed and logical decisions instead of relying on a mediocre guessing game. 
 
 **Bibliograpghy**
 * http://web.eecs.utk.edu/~mbeck/classes/cs160/lectures/
