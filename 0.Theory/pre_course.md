@@ -9,7 +9,7 @@
 @@ text in purple (and bold)@@
 ```
 ```diff
-- Why is the subject's name so long??
+- Why is the subject's name so long?? did you notice any pattern in your unit-wise syllabus??
 + computer?? organization?? architecture??
 - Why GitHub??
 + repository (folder); shared and collaborative view of the codebase (pull requests??).
